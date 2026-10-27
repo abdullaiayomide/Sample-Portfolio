@@ -1,0 +1,70 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.main-header {
+  padding: 25px;
+  background-color: rgb(250, 250, 250);
+  display: flex;
+  justify-content: space-between;
+}
+.nav-bar a {
+  padding: 3px;
+  margin: 3px;
+  font-weight: bold;
+  color: black;
+  text-decoration-line: none;
+}
+.btn-consultant {
+  background-color: brown;
+  color: white;
+  border-radius: 4px;
+  padding: 8px;
+  border-style: none;
+}
+.main-field {
+  background-color: rgb(213, 212, 212);
+  display: flex;
+  justify-content: center;
+ align-items: center;
+ padding: 0px 100px 0px 100px;
+ margin: 0px 10px 0px 10px;
+}
+
+.subtitle {
+  color: brown;
+}
+.hero-content {
+  display: flex;
+}
+
+.designer {
+  color: rgb(21, 21, 88);
+}
+.btn-primary {
+  padding: 8px 15px 8px 15px;
+  color: white;
+  background-color: brown;
+  border-style: none;
+  border-radius: 4px;
+}
+.btn-outline {
+  padding: 8px 25px 8px 25px;
+  border-style: solid;
+  border-radius: 4px;
+  border-color: rgb(44, 43, 43);
+  background-color: rgb(213, 212, 212);
+}
+.subtitle-text {
+  color: rgb(109, 109, 110);
+}
+  
+
+.black_boy{
+    height: 500px;
+}
+.subtitle-text{
+    width:97%;
+
+}
